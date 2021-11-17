@@ -13,13 +13,13 @@ Extra features
 
 ### Screenshots
 
-![Getting Started](./Screenshots/Sign-Up.png)
-![Getting Started](./Screenshots/Sign-In.png)
-![Getting Started](./Screenshots/Validation-01.png)
-![Getting Started](./Screenshots/Validation-02.png)
-![Getting Started](./Screenshots/Validation-03.png)
-![Getting Started](./Screenshots/Validation-04.png)
-![Getting Started](./Screenshots/Homepage.png)
-![Getting Started](./Screenshots/MySQL.png)
+![Getting Started](./screenshots/Sign-Up.png)
+![Getting Started](./screenshots/Sign-In.png)
+![Getting Started](./screenshots/Validation-01.png)
+![Getting Started](./screenshots/Validation-02.png)
+![Getting Started](./screenshots/Validation-03.png)
+![Getting Started](./screenshots/Validation-04.png)
+![Getting Started](./screenshots/Homepage.png)
+![Getting Started](./screenshots/MySQL.png)
 
 _Developed by Thilrash Gowzul Ameen_
